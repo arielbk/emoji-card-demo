@@ -4,7 +4,7 @@ import EmojiCard from "./component/EmojiCard";
 function App() {
   return (
     <div className="App">
-      <EmojiCard emoji="🍭">
+      <EmojiCard emoji="🍬">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi
         explicabo doloremque, accusantium repellat dolorem natus soluta quos!
       </EmojiCard>
